@@ -63,7 +63,7 @@ function handleModeClick() {
         mode.innerText = "PAINT";
     }
 }
-
+ 
 
 function handleCanvasClick() {
     if(filling) {
