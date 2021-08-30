@@ -6,7 +6,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 15px 0px
+  padding: 15px 0px;
 }
 
 .canvas {
@@ -28,7 +28,7 @@ body {
 }
 
 .controls__btns button {
-  all:unset;
+  all: unset;
   cursor: pointer;
   background-color: white;
   text-align: center;
